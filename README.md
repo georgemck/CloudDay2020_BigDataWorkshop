@@ -1,6 +1,6 @@
 # Cloud Day 2020 Big Data Workshop
 
-By the multi-talented Salomon Davia https://twitter.com/SalomonDavila84 for the CA Cloud Workforce's Cloud Day Spring 2020 held on Saturday, June 13, 2020 https://www.eventbrite.com/e/ca-cloud-workforce-cloud-day-spring-2020-tickets-104566774036
+By the multi-talented Salomon Davila https://twitter.com/SalomonDavila84 for the CA Cloud Workforce's Cloud Day Spring 2020 held on Saturday, June 13, 2020 https://www.eventbrite.com/e/ca-cloud-workforce-cloud-day-spring-2020-tickets-104566774036
 
 For the Colab sample, be sure to load the meetup_data.txt dataset.
 
